@@ -1,0 +1,28 @@
+{
+  "name": "TestUser_42",
+  "email": "testuser42@gmail.com",
+  "password": "MyPass@42",
+
+  "days": "15",
+  "months": "7",
+  "years": "1985",
+
+  "firstName": "John",
+  "lastName": "Doe",
+  "company": "OpenAI",
+  "address": "742 Evergreen Terrace",
+
+   "country": "United States",
+    "state": "Texas",
+    "city": "Austin",
+    "zipcode": "111111",
+
+
+  "mobile": "9876543210",
+
+  "nameOnCard": "John Doe",
+  "ccNumber": "4111 1111 1111 1111",
+  "CVC": "456",
+  "expirationMonth": "08",
+  "expirationYear": "27"
+}
